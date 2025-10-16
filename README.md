@@ -22,7 +22,7 @@ The primary goal of this project was to build a fully interactive Excel dashboar
 
 ## Project Video
 
-🎥 [Watch Project Video](https://www.youtube.com/watch?v=jrRozbzwcLo)
+🎥 [Watch Project Video](https://drive.google.com/file/d/1NEy0LXu6y-fFsTgA8uYujVyYXxVVuGUg/view?usp=drive_link)
 
 ---
 
