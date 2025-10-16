@@ -4,8 +4,8 @@
 This project presents a comprehensive Bank Loan Analysis Dashboard developed using Microsoft Excel.  
 The objective is to evaluate the performance of a lending portfolio through key financial metrics, track trends over time, and generate insights that assist stakeholders in data-driven decision-making.
 
-The dashboard leverages Excel’s analytical and visualization capabilities—Power Query, Pivot Tables, and dynamic KPIs—to monitor lending efficiency, repayment behavior, and borrower health across different time periods.
-** DASHBOARD :**
+The dashboard leverages Excel’s analytical and visualization capabilities—Power Query, Pivot Tables, and dynamic KPIs—to monitor lending efficiency, repayment behavior, and borrower health across different time periods. <br>
+**DASHBOARD :**
 <img width="1407" height="777" alt="Dashboard_Photo" src="https://github.com/user-attachments/assets/0dc1d989-265d-4ce7-ba1a-b32350f390b9" />
 
 ---
@@ -21,7 +21,7 @@ The primary goal of this project was to build a fully interactive Excel dashboar
 
 ## Project Video
 
-🎥 [Watch Project Demo on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=jrRozbzwcLo))
+🎥 [Watch Project Demo on YouTube](https://www.youtube.com/watch?v=jrRozbzwcLo)
 
 ---
 
